@@ -1,16 +1,15 @@
 <p align="center">
   <img width="800px" height="120px" src="https://i.imgur.com/7otQ9er.png">
-  <!-- <img width="800px" height="120px" src="https://i.imgur.com/NPDwjrV.png"> -->
-  <!-- <img width="800px" height="120px" src="https://i.imgur.com/QPZaZIQ.png"> -->
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/christianabreuh/">Linkedin</a>
-  /
-  <a href="https://www.christianabreu.dev">Christian.dev</a>
+  <a href="https://www.linkedin.com/in/christianabreuh/">
+    <img src="https://img.shields.io/static/v1?label=&message=Linkedin&color=blue&style=for-the-badge" />
+  </a>
+  <a href="https://www.linkedin.com/in/christianabreuh/">
+    <img src="https://img.shields.io/static/v1?label=&message=Don't%20click%20Me!&color=white&style=for-the-badge" />
+  </a>
 </p>
-
-<!-- <h1 style="text-align: center;">Welcome 👋</h1> -->
 
 - 💬 Ask me about: **Javascript** | **Nodejs** | **Rest API**
 - 📚 Learning: **Lua** & **Svelte**
