@@ -20,10 +20,10 @@
 | Project                                       | Description                                       |
 | --------------------------------------------- | ------------------------------------------------- |
 | [chVideos](https://t.me/chvideodownloaderbot) | Download your favorites videos from social media. |
-<!-- | [formula.xyz](https://www.formula.xyz)        | Create Gsheet & Excel formulas with AI.           | -->
 
 ## Some Technologies
 
+<p>
 <img width="30px" height="30px" src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg">
 <img width="30px" height="30px" src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg">
 <img width="30px" height="30px" src="https://cdn.worldvectorlogo.com/logos/typescript.svg">
@@ -42,6 +42,7 @@
 <img width="30px" height="30px" src="https://cdn.worldvectorlogo.com/logos/electron-1.svg">
 <img width="30px" height="30px" src="https://cdn.worldvectorlogo.com/logos/tmux.svg">
 <img width="30px" height="30px" src="https://cdn.worldvectorlogo.com/logos/bash-1.svg">
+</p>
 
 ## Some Skills
 
