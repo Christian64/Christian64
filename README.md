@@ -1,10 +1,10 @@
-<p style="text-align: center;">
+<p align="center">
   <img width="800px" height="120px" src="https://i.imgur.com/7otQ9er.png">
   <!-- <img width="800px" height="120px" src="https://i.imgur.com/NPDwjrV.png"> -->
   <!-- <img width="800px" height="120px" src="https://i.imgur.com/QPZaZIQ.png"> -->
 </p>
 
-<p style="text-align: center;">
+<p align="center">
   <a href="https://www.linkedin.com/in/christianabreuh/">Linkedin</a>
   /
   <a href="https://www.christianabreu.dev">Christian.dev</a>
