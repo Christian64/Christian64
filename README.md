@@ -7,7 +7,7 @@
     <img src="https://img.shields.io/static/v1?label=&message=Linkedin&color=blue&style=for-the-badge" />
   </a>
   <a href="https://www.christianabreu.dev">
-    <img src="https://img.shields.io/static/v1?label=&message=Don't%20click%20Me❗&color=orange&style=for-the-badge" />
+    <img src="https://img.shields.io/static/v1?label=&message=Don't%20click%20Me!&color=orange&style=for-the-badge" />
   </a>
 </p>
 
