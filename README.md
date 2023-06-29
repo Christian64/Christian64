@@ -17,12 +17,10 @@
 - 👀 Looking to learn: **Rust** | **Go**
 - 📬 Contact me: **christianabreuh@gmail.com**
 
-| Name         | Description                                       | Website                                                |
-| ------------ | ------------------------------------------------- | ------------------------------------------------------ |
-| 🎬 chVideos  | Download your favorites videos from social media. | [Visit the website](https://t.me/chvideodownloaderbot) |
-| 🤖 formulaAI | Create excel & GSheets formulas with AI           | [Tryout](https://t.me/chvideodownloaderbot)            |
-| 🚀 EnlaceBio | Create a linkbio for your social media.           | [Visit the website](https://t.me/chvideodownloaderbot) |
-| 🔒 PDFUnlock | Lock & Unlock Pdf's easily                        | [Visit the website](https://t.me/chvideodownloaderbot) |
+| Name        | Description                                       | Website                                               |
+| ----------- | ------------------------------------------------- | ----------------------------------------------------- |
+| 🎬 chVideos | Download your favorites videos from social media. | [Download a Video](https://t.me/chvideodownloaderbot) |
+| 🔒 Secrect  | Send Sensible data to your Friends/Teammates      | [Create Secrect Messages](https://www.secrect.info)   |
 
 ## Some Technologies
 
