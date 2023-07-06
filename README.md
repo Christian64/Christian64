@@ -22,6 +22,17 @@
 | 🎬 chVideos | Download your favorites videos from social media. | [Download a Video](https://t.me/chvideodownloaderbot) |
 | 🔒 Secrect  | Send Sensible data to your Friends/Teammates      | [Create Secrect Messages](https://www.secrect.info)   |
 
+## Some Skills
+
+| Emoji | Skills        |
+| ----- | ------------- |
+| 🧪    | Unit Test     |
+| 🧹    | Clean Code    |
+| 🪜    | Scalable Code |
+| 🎛️    | Git Flow      |
+| 🔌    | Websockets    |
+| 🌐    | Rest API      |
+
 ## Some Technologies
 
 <p>
@@ -53,14 +64,3 @@
 <img width="30px" height="30px" src="https://cdn.worldvectorlogo.com/logos/redis.svg">
 <img width="30px" height="30px" src="https://cdn.worldvectorlogo.com/logos/chromium-material-icon.svg">
 </p>
-
-## Some Skills
-
-- Clean Code
-- Scalable Code
-- Code Documentation
-- Websockets
-- Gitflow
-- Unit test
-- CI/CD
-- Rest API
